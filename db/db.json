@@ -1,0 +1,255 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "rosana pereira de castro lorena",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 2
+    },
+    {
+      "nome": "Flavio Castro Lorena",
+      "pao": "",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 3
+    },
+    {
+      "nome": "Flavio",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 4
+    },
+    {
+      "nome": "Flavio",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 5
+    },
+    {
+      "nome": "flavio",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "flavio",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Finalizado",
+      "id": 7
+    },
+    {
+      "nome": "flavio",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    },
+    {
+      "nome": "asd",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 9
+    },
+    {
+      "nome": "flavio",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 10
+    },
+    {
+      "nome": "Flavio Castro Lorena",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 11
+    },
+    {
+      "nome": null,
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 12
+    },
+    {
+      "nome": null,
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 13
+    },
+    {
+      "nome": null,
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 14
+    },
+    {
+      "nome": null,
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 15
+    },
+    {
+      "nome": null,
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 16
+    },
+    {
+      "nome": null,
+      "pao": null,
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 17
+    },
+    {
+      "nome": null,
+      "pao": null,
+      "opcionais": [],
+      "status": "Em produção",
+      "id": 18
+    },
+    {
+      "nome": "flavio",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 19
+    },
+    {
+      "nome": "asss",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 20
+    }
+  ]
+}
